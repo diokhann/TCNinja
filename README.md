@@ -28,7 +28,7 @@ pip install requests beautifulsoup4 openai
 ```json
 {
     "OPENAI_API_KEY": "your_openai_api_key_here",
-    "DEFAULT_MODEL": "text-davinci-002"
+    "DEFAULT_MODEL": "gpt-3.5-turbo"
 }
 ```
 
